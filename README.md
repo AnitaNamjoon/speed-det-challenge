@@ -1,2 +1,2 @@
 # speed-det-challenge
-Tis detcts the speed of the car
+The speed detector looks out for the car's speed.
